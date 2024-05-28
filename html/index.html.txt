@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASAP Graphics & Marketing</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #EDB961;
+            color: #4C4C4C;
+        }
+        .header {
+            text-align: center;
+            padding: 50px 0;
+            background-color: #4C4C4C;
+            color: #ffffff;
+        }
+        .company-name {
+            font-size: 32px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-top: 30px;
+        }
+        .quote {
+            font-style: italic;
+            margin-top: 20px;
+        }
+        .services {
+            margin-top: 40px;
+            text-align: left;
+            padding-left: 20px;
+        }
+        .service-item {
+            margin-bottom: 20px;
+        }
+        .instagram-link,
+        .facebook-link,
+        .copyright {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="company-name">ASAP Graphics & Marketing</div>
+    </div>
+    <div class="content">
+        <h2>🎨✂️💼 About Zainab Khalid & ASAP Graphics and Marketing 💼✂️🎨</h2>
+        <p>Hello there! I'm Zainab Khalid, the creative force behind ASAP Graphics and Marketing. As a versatile professional, I wear multiple hats – from crafting captivating designs to weaving compelling narratives through video editing, and driving impactful marketing strategies.</p>
+        <p>"Design is intelligence made visible." – Zainab Khalid</p>
+        <p>At ASAP Graphics and Marketing, we believe in the power of visual storytelling to elevate brands and connect with audiences on a deeper level. With a keen eye for detail and a passion for innovation, we strive to bring your vision to life in the most dynamic and engaging ways possible.</p>
+        <p>Join us as we transform ideas into unforgettable experiences and make your brand shine brighter than ever before. Let's create something extraordinary together!</p>
+        
+        <div class="services">
+            <h3>Our Services</h3>
+            <div class="service-item">- Creative Post Designing</div>
+            <div class="service-item">- Video Editing</div>
+            <div class="service-item">- Paid Advertisement</div>
+            <div class="service-item">- Account Management</div>
+        </div>
+
+        <div class="instagram-link">
+            Follow us on Instagram: <a href="https://www.instagram.com/asap_graphic_marketing?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">ASAP Graphic & Marketing</a>
+        </div>
+
+        <div class="facebook-link">
+            Connect with us on Facebook: <a href="https://www.facebook.com/profile.php?id=61560014618334" target="_blank">ASAP Graphics & Marketing</a>
+        </div>
+
+        <div class="copyright">
+            &copy; 2024 ASAP Graphics & Marketing. All Rights Reserved.
+        </div>
+    </div>
+</body>
+</html>
